@@ -1,0 +1,15 @@
+/home/hp/EmployeeHotelWeapon/EmployeeTask/bin/Debug/net10.0/EmployeeTask
+/home/hp/EmployeeHotelWeapon/EmployeeTask/bin/Debug/net10.0/EmployeeTask.deps.json
+/home/hp/EmployeeHotelWeapon/EmployeeTask/bin/Debug/net10.0/EmployeeTask.runtimeconfig.json
+/home/hp/EmployeeHotelWeapon/EmployeeTask/bin/Debug/net10.0/EmployeeTask.dll
+/home/hp/EmployeeHotelWeapon/EmployeeTask/bin/Debug/net10.0/EmployeeTask.pdb
+/home/hp/EmployeeHotelWeapon/EmployeeTask/obj/Debug/net10.0/EmployeeTask.GeneratedMSBuildEditorConfig.editorconfig
+/home/hp/EmployeeHotelWeapon/EmployeeTask/obj/Debug/net10.0/EmployeeTask.AssemblyInfoInputs.cache
+/home/hp/EmployeeHotelWeapon/EmployeeTask/obj/Debug/net10.0/EmployeeTask.AssemblyInfo.cs
+/home/hp/EmployeeHotelWeapon/EmployeeTask/obj/Debug/net10.0/EmployeeTask.csproj.CoreCompileInputs.cache
+/home/hp/EmployeeHotelWeapon/EmployeeTask/obj/Debug/net10.0/EmployeeTask.sourcelink.json
+/home/hp/EmployeeHotelWeapon/EmployeeTask/obj/Debug/net10.0/EmployeeTask.dll
+/home/hp/EmployeeHotelWeapon/EmployeeTask/obj/Debug/net10.0/refint/EmployeeTask.dll
+/home/hp/EmployeeHotelWeapon/EmployeeTask/obj/Debug/net10.0/EmployeeTask.pdb
+/home/hp/EmployeeHotelWeapon/EmployeeTask/obj/Debug/net10.0/EmployeeTask.genruntimeconfig.cache
+/home/hp/EmployeeHotelWeapon/EmployeeTask/obj/Debug/net10.0/ref/EmployeeTask.dll
