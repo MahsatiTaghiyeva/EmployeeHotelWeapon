@@ -1,0 +1,4 @@
+/home/hp/EmployeeHotelWeapon/HotelTask/obj/Debug/net10.0/HotelTask.GeneratedMSBuildEditorConfig.editorconfig
+/home/hp/EmployeeHotelWeapon/HotelTask/obj/Debug/net10.0/HotelTask.AssemblyInfoInputs.cache
+/home/hp/EmployeeHotelWeapon/HotelTask/obj/Debug/net10.0/HotelTask.AssemblyInfo.cs
+/home/hp/EmployeeHotelWeapon/HotelTask/obj/Debug/net10.0/HotelTask.csproj.CoreCompileInputs.cache
